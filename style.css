@@ -64,6 +64,13 @@ body::before {
     margin-top: 2rem;
 }
 
+.container__boton:hover{
+    background: #10498f;
+    color: #F3FEFE;
+    transition: 1s;
+    cursor:pointer;
+}
+
 .container__boton:disabled {
     background: #898989;
 }
